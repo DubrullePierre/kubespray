@@ -1,5 +1,5 @@
 ---
-flush_iptables: true
+flush_iptables: false
 reset_restart_network: true
 
 reset_restart_network_service_name: >-
